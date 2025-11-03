@@ -1,0 +1,45 @@
+Nice to meet you {user_name}. I hope your day is going well. Allow me to introduce myself. I am a robot assistant for Dr. {dr_name}. I want to let you know important details about HPV vaccine. Are you interested in learning them? I promise our conversation will be confidential.
+
+HPV stands for Human Papillomavirus which is a most common sexually transmitted infection. Men and women are both susceptible to HPV, and If you didn’t get the HPV vaccine when you were an adolescent, doctor’s recommend you get it by age 26. (K2, K3, and K4) For adults over 26 years old doctors may recommend you get the HPV vaccine. If you don’t get the HPV vaccine, you are at risk for HPV infection which could later turn into life-threatening diseases (K10, and K12). Shall I continue?
+
+If you did not get the HPV vaccine when you were an adolescent, doctors commend you to get it by age 26 [K3]. Do you understand why you need to get the vaccine?
+
+For adults over 26 years old, doctors may recommend you get the HPV vaccine. [K4] Should I continue?
+
+Currently over 14 million Americans are infected by HPV in 2021. Sexually active people are at a higher risk of becoming infected by the HPV virus. HPV is very common and there is a high chance of you getting HPV infection without HPV vaccines. Failing to get the HPV vaccine puts you a trisk of becoming infected. But, it is not too late to get the HPV vaccine (PSU1, PSU2, PSU3, PSU4). Is it okay if I illustrate a real story from a HPV-cancer survivor?
+
+Here is Christopher's story. I was getting ready to go out to dinner and I was shaving my neck when felt a bump. I had a bad cold so I thought it was a swollen gland. But it didn’t go away so I had it checked out by an ENT doctor in Los Angeles where I live. The diagnosis confused me. I never smoked or chewed tobacco and did not drink heavily. But I had a risk factor that 80% of adults also have – exposure to HPV.Like Christopher's story, almost all the people are in risk of HPV infection. Do you understand the seriousness of HPV infection?
+
+High-risk HPV strains cause about 70% of cervical cancers. Women who need treatment to remove HPV-related cervical cancer or precancerous cells can become infertile. Other high-risk HPV strains can cause throat cancer and genital warts in men and women. Don’t risk your health by not getting vaccinated (PSE1, PSE2). Do you get the message? - Should I mention about side effects?
+
+Please allow me to share Kathryn's story.After being diagnosed in 2008, Kathleen underwent surgery to remove her bladder where the cancer had spread. Multiple surgeries, including a radical hysterectomy, as well as chemotherapy and radiation, followed. In 2009, Kathleen was briefly placed in remission, but by November of that year she found out that the cancer had returned and it had spread to her colon and rectum. Kathleen spent the next 14 months undergoing more surgeries, chemotherapy and radiation. Jerry recalls what that time was like. “She was in a great deal of pain, and it was a tremendous struggle for all of us, but especially her.” Tragically, on January 4, 2011, at 50 years old, Kathleen lost her battle with cervical cancer and passed away, leaving Jerry and their 19-year-old daughter, Kaitlyn, to mourn (JP). Do you understand how dire HPV can be?
+
+HPV vaccine is nearly 100% effective at preventing infections and its related diseases and six types of cancers. Also, HPV vaccine can give you peace of mind knowing that you don’t have to pay for costly treatment for a potential HPV-related cancer. If you wish to prevent getting HPV infection, HPV vaccination is the best prevention measures you can take (PBE1, PBE2, PBE3). Got it?
+
+To illustrate, Kim is a HPV-related cancer survivor whohas gone through a tragic experience with HPV. She had not been vaccinated and her family suffered a great loss of her sister. Moreover, Kim had suffered significantly as HPV vaccine was not around when she was little. She says "If there had been a safe, effective vaccine available back in our day, the suffering my family has endured would not have happened. Today that vaccine is available, the only vaccine that prevents most HPV-related cancers." Also, she denotes that she wants to dedicate her days for HPV education and immunization against HPV cancers as it can change people's lives.   Failing to get vaccinated against HPV infection can increase your risk of developing six types of cancers, including throat and cervical cancers, as well as genital warts and other serious health problems (PRV1). Do you understand?
+
+Some people avoid getting vaccinated because of the time and cost. But, getting vaccinated takes less time than treating problems that could result from an HPV infection in the long run. Also, federal institutions such as FDA, or CDC approved administering HPV vaccine for boys and girls starting at age 9. Lastly, Side-effects of HPV vaccines are rare and usually minor. (PBA1, PBA2, and PBA3). Do you have any questions?
+
+Fidencia, a HPV-related cancer survivor says that "There is a huge lack of information, and I don’t understand why more people aren’t talking about this," Ever since her HPV case, Fidencia has worked hard to educate the women in her community about the devastating effects of HPV and the importance of the HPV vaccine. This is serious right? 
+
+Not getting vaccinated against HPV increases your risk for serious cancers and other health problems, like genital warts. Getting vaccinated is important to protect your future health (A1). Is everything clear? 
+
+If you don’t get the HPV vaccine, you not only risk your own health, but have the potential to spread high-risk HPV infections to others, including your cared ones. Also, by deciding not to get vaccinated, you may not follow health care recommendations (SN2, and SN3). Right?
+
+Also, subjective norm of HPV vaccine is changing and more people are wanting to support and take HPV vaccines. Steve says that "he just really want people to vaccinate their children because there is still a someday, I am going to raise my children alone or that my husband will die at 50 instead of 80 because the cancer will come back. So, it is really important that we advocate for the vaccine to be able to prevent these cancers from occurring in the first place." Do you agree?
+
+Getting the HPV vaccine is an investment in your future health. It is also an investment in protecting your future partners from the serious health consequences of contracting a high-risk HPV infection (BI1, and BI2). Do you have any questions?
+
+Jim and Peggy, HPV-related cancer survivors now embrace the opportunity to use this experience as a lesson for their four adult children, their 3-year-old grandson, and any future grandchildren they may have. Furthermore, they hope to persuade other parents to vaccinate and protect their children from HPV-related diseases. “After you see people like me and many others go through this terrible experience, why would you risk it for your child? HPV will impact me for the rest of my life,” Jim says. “Please vaccinate your children to protect them from cancer (Jim P).” Do you feel like getting a vaccine now?
+
+HPV vaccine is available to everybody between the age of 9 and 45 with health insurance in the United States. It is up to you to get vaccinated. Take an action today to set up the appointment (SE1, SE2, and SE3). Do you know how to set up the appointment?
+
+For Matthew, whose father was diagnosed with HPV-related cancer, decided to get the HPV vaccine. While father was taking treatments, Matthew was able to get full shots of HPV with no problem. HPV vaccines are rather easy to take. It only takes one doctor’s visit to start the HPV vaccination process. Also, the HPV vaccine is free for people with health insurance. The CDC Adult Safety Net program also covers the cost for low-income adults with no insurance. Ask your healthcare provider for the HPV vaccine to protect yourself (CA1, CA2, and CA3). Do you have any questions about HPV vaccination?
+
+Lastly, keep in mind you still have to take preventative measures such as safe sex regardless of whether you had the HPV Vaccine. Ok?
+
+It looks like we're done with session, {user_name} Just before we end, do you have any final questions?
+
+At the end of the session, you will be given access to webpage that lets you to schedule an appointment for HPV vaccines. Feel free to schedule an appointment. Also, don't worry about potential side-effects. You will also have consulting time with Dr. {dr_name} so that you can safely uptake HPV vaccination. 
+
+Thanks for your time. Take care {user_name}. Bye

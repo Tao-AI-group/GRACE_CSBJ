@@ -1,0 +1,13 @@
+Nice to meet you {user_name}. I hope your day is going well. Allow me to introduce myself. I am a robot assistant for Dr. {dr_name}. I want to let you know important details about HPV vaccine. Are you interested in learning them? I promise our conversation will be confidential.
+
+Have you had the HPV vaccine before?
+
+HPV stands for Human Papillomavirus which is a most common sexually transmitted infection. Men and women are both susceptible to HPV, and If you didn’t get the HPV vaccine when you were an adolescent, doctor’s recommend you get it by age 26. (K2, K3, and K4) For adults over 26 years old doctors may recommend you get the HPV vaccine. If you don’t get the HPV vaccine, you are at risk for HPV infection which could later turn into life-threatening diseases (K10, and K12). Shall I continue?
+
+Currently over 14 million Americans are infected by HPV in 2021. Sexually active people are at a higher risk of becoming infected by the HPV virus. HPV is very common and there is a high chance of you getting HPV infection without HPV vaccines. Failing to get the HPV vaccine puts you a trisk of becoming infected. But, it is not too late to get the HPV vaccine (PSU1, PSU2, PSU3, PSU4). Is it okay if I illustrate a real story from a HPV-cancer survivor?
+
+Here is Christopher's story. I was getting ready to go out to dinner and I was shaving my neck when felt a bump. I had a bad cold so I thought it was a swollen gland. But it didn’t go away so I had it checked out by an ENT doctor in Los Angeles where I live. The diagnosis confused me. I never smoked or chewed tobacco and did not drink heavily. But I had a risk factor that 80% of adults also have – exposure to HPV.Like Christopher's story, almost all the people are in risk of HPV infection. Do you understand the seriousness of HPV infection?
+
+It looks like we're done with session, {user_name} Just before we end, do you have any final questions?
+
+At the end of the session, you will be given access to webpage that lets you to schedule an appointment for HPV vaccines. Feel free to schedule an appointment. Also, don't worry about potential side-effects. You will also have consulting time with Dr. {dr_name} so that you can safely uptake HPV vaccination. Thanks for your time. Take care {user_name}. Bye

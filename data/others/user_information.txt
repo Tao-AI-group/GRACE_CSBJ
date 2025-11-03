@@ -1,0 +1,5 @@
+Name: Anna  
+Age: 31  
+Marital Status: Married  
+Children: Two  
+Education: Bachelor's Degree  

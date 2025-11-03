@@ -1,0 +1,23 @@
+Nice to meet you, {user_name}. I hope you're having a good day. Let me introduce myself—I'm a virtual assistant working with Dr. {dr_name}. I'm here to share some important information about the HPV vaccine. Would you be interested in learning more? I assure you that everything we discuss will remain completely confidential.
+
+HPV stands for Human Papillomavirus, which is one of the most common sexually transmitted infections. Both men and women can be affected by HPV. If you didn’t receive the HPV vaccine during adolescence, doctors recommend getting vaccinated by age 26. (K2, K3, and K4)
+
+For adults over 26, the vaccine may still be recommended based on individual risk factors. Without the vaccine, you're more likely to contract HPV, which can lead to serious and even life-threatening conditions. (K10, K12) Would you like me to continue?
+
+If you didn’t get the HPV vaccine when you were younger, doctors strongly recommend getting it before turning 26. [K3]
+Do you understand why this vaccine is important?
+
+For adults over 26, doctors may still suggest the HPV vaccine depending on your risk profile. [K4]
+Shall I go on?
+
+As of 2021, over 14 million Americans are newly infected with HPV each year. Sexually active individuals are at higher risk. HPV is extremely common, and without vaccination, there’s a significant chance of contracting it.
+
+Choosing not to get vaccinated puts you at risk—but the good news is, it’s not too late to protect yourself. (PSU1, PSU2, PSU3, PSU4)
+Would you like to hear a real-life story from an HPV cancer survivor?
+
+Here’s Christopher’s story:
+"I was getting ready for dinner and shaving my neck when I felt a lump. I thought it was just a swollen gland from a cold, but it didn’t go away. So I saw an ENT specialist in Los Angeles, where I live. The diagnosis shocked me. I had never smoked, used chewing tobacco, or drank heavily. But I did have one major risk factor—exposure to HPV, something that 80% of adults also face."
+
+Just like Christopher, almost everyone is at risk of HPV infection.
+Do you see how serious HPV can be?
+

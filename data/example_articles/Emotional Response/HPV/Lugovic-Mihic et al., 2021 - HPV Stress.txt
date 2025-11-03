@@ -1,0 +1,625 @@
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 71 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis Review Accepted: 26 May 2021 This article is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Interna- tional License (CC BY-NC-ND). Usage and distribution for commercial purposes as well as any distribution of  modified material requires written permission. DOI: 10.33594/000000395 Published online: 10 July 2021 © 2021 The Author(s) Published by Cell Physiol Biochem  Press GmbH&Co. KG, Duesseldorf www.cellphysiolbiochem.com The Influence of Psychological Stress  on HPV Infection Manifestations and  Carcinogenesis Liborija Lugović-Mihića,b    Hrvoje Cvitanovićc    Ivka Djakovićd     Matea Kunaa,b    Ana Šešerkoe aDepartment of Dermatovenereology, University Hospital Center Sestre Milosrdnice, Zagreb,  Croatia, bSchool of Dental Medicine, University of Zagreb, Zagreb, Croatia, cDepartment of  Dermatovenereology, Karlovac General Hospital, Karlovac, Croatia, dDepartment of of Gynaecology and  Obstetrics, University Hospital Center Sestre Milosrdnice, Zagreb, Croatia, eDepartment of Gynaecology  and Obstetrics, University Hospital Center Zagreb, Zagreb, Croatia Key Words Psychological  stress  •  HPV  infection  •  Carcinogenesis  •  Immune  response  •  Psychoneuroimmunology Abstract Psychological stress is an important factor involved in disease manifestations of human  papillomavirus (HPV) infection, and it can participate in HPV-associated carcinogenesis. The  impact or effect which stress can have (exert) depends on a person’s genetic pool, experiences  and behaviors. Due to inconsistencies in some study results, this issue remains a subject of  research. Concerning the course of HPV manifestations, it has been observed that a higher  number of life stressors in at least the previous 6 months, the absence of social support and  the types of personal coping mechanisms employed, all influence HPV progression. In women  with cervical dysplasia, a connection between greater stress experiences and dysregulation  of specific immune responses has been observed. Once HPV enters a cell via the α6 integrin  there are three possible sequences: latent infection, subclinical infection, and clinically manifest  disease. HPV proliferation in differentiated epithelial cells induces morphologically cytopathic  changes (koilocytosis, epidermal thickening, hyperplasia, hyperkeratosis). Oncogenic  transformation requires the integration of the virus genome into the host genome. In doing  so, DNA in the E1 region of E2 breaks down, leading to transcription disorders of E6 and E7. For  the formation of irreversible malignancy, the following sequence is necessary: initial expression  of E6 and E7 genes followed by suppression of apoptosis and the stabile expression of E6 and  E7 proteins that protect transformed cells from apoptosis. A successful immune response is  characterized by a strong, local cell-mediated immune response. Several factors are important  for the regression of HPV manifestation/infection, among which is psychological stress which  can prolong the duration and severity of HPV disease. Stress hormones may reactivate latent  Professor Liborija Lugović-Mihić,  MD, PhD Department of Dermatology and Venereology, University Hospital Center Sestre Milosrdnice Vinogradska cesta 29, 10 000 Zagreb (Croatia) Tel. +385 1 3787 422, Fax +385 1 3769 067, E-Mail liborija@gmail.com
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 72 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis tumor viruses, stimulate viral oncogene expression, and inhibit antiviral host responses. In the  regression of HPV infection, increased activity of Th1 cells was observed. However, during  psychosocial stress, a decrease in the Th1 type of immune response is seen, and there is a shift  towards a Th2 response. Understanding perceived stress and biological changes in stress, as  well as the evaluation of immune parameters, gives researchers a better picture of how stress  influences HPV infections and how to improve disease management and outcomes. Introduction Psychological stress is an important factor involved in disease manifestations of HPV  infection, and it can participate in carcinogenesis associated with HPV. Due to inconsistencies  in some study results, this issue remains a subject of research. It is important to determine  to what extent stress plays a role in HPV manifestations and carcinogenesis and how much it  participates in the onset, development, and progression of infections. Features of HPV Human papillomavirus (HPV) is a DNA virus that belongs to the Papillomaviridae family.  It is one of the most ubiquitous viral infections in humans, and it usually manifests as skin or  genital mucosa lesions, although it can occur in other mucosa as well. It has long been known  that most sexually active people will be infected by this virus at some point of their life, and  the incidence of HPV infection is highest in the age group for those 20-40 years old [1-4].  Despite its high prevalence, most who get infected will not have a clinically overt infection.  Still, the persistence of the HPV infection may cause a higher risk for developing cervical  intraepithelial neoplasia (CIN) and invasive carcinoma. In women, a breakout from a high- risk HPV infection typically takes 14 months to clear up for an oncogenic infection and 5-6  months for a non-oncogenic infection [4]. To date, more than 200 types of HPV have been identified [5]. A strain is considered  new when the nucleotides of the L1 part of the HPV genome differ from that of known HPV  viruses by more than 10% [6, 7]. HPV viruses can be divided into different groups by their  affinity for certain tissues, which in some part depends on their genotype [6]. The specific  skin lesions for each type of HPV are as follows: common warts – types 2, 7, 22; plantar  warts – types 1, 2, 4, 63; flat warts – types 3, 10, 28; and for verrucous cyst type 60 and  epidermodysplasia verruciformis - more than 15 different types. There are also specific HPV  types for anal/genital manifestations: anogenital warts—types 6, 11, 42, 44 and others; anal  dysplasia (lesions) – types 16, 18, 31, 53, 58; and genital cancers— highest risk types 16, 18,  31, 45, other high-risk types— 33, 35, 39, 51, 52, 56, 58, 59, and probably high-risk— types  26, 53, 66, 68, 73, 82 [5]. The types of HPV for oral/oropharingeal lesions are: focal epithelial  hyperplasia  (mouth)—types 13 and 32; mouth  papillomas—types 6, 7, 11, 16, 32); and  oropharyngeal cancer—type 16; laryngeal papillomatosis—types 6 and 11 [5]. Concerning  oncogenic risk, the low-risk HPV types are 6, 11, 49, 42, 43, 44, 54, 61, 70, 72 and 81, while  the high-risk types are 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68, 73, and 82. In addition,  60% of all genital warts are caused by HPV types 16 and 11 [8]. HPV is transmitted through direct skin or mucous membrane contact, and infection  can be clinical, subclinical or latent. Microimpairments in the skin or mucous membrane  enhance transmission, but for infection to develop it is essential for the complete virus to be  transmitted, not only its DNA fragments [4]. In the sexually active population, HPV is present  in 80% of women of reproductive age, but its manifestations resolve spontaneously in most  cases (cca 80 % of infections) within 12-24 months [9]. Untreated HPV manifestations in  men can cause invasive penile carcinoma, which represents 1% of malignancies in men in  developed countries and 10-20% in undeveloped countries. In men, incidence of death due  to suffering from HPV-associated cancers of different organs is 0.32 per 100.000 [10]. © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 73 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis HPV is a double-stranded DNA virus that has an icosahedron shape and a double- layered capsid made of 72 capsomers (HPV’s capsid is not covered by a lipid membrane,  which makes it resistant to ethanol and solvents.) It has 8,000 base pairs with a molecular  mass of 5200 kDa [8, 11]. The genes are divided into two groups: early (E) and late (L).  The group of early genes is composed of six genes (E1, E2, E4, E5, E6, E7) that code for the  proteins responsible for replication, transcription, and malignant transformation [5, 8, 11].  Late genes L1 and L2 code for the viral envelope (non-lipid membrane) and for the proteins  responsible for the capsid’s structure. Gene L1 is the oldest, and it is used to identify the  different types of HPV. A 10% difference in the nucleotide sequence of the L1 gene signifies  a new strain (type), while a difference of 2-10% is considered a subtype, and a difference of  less than 2% is defined as a variant. The oncogenic potential of HPV depends on genes E6 and E7. The product of the E6  gene binds to the p53 oncosupressor, and the product of E7 binds to the RB protein. In the  case of cervical intraepithelial neoplasia, genes of high-risk types are integrated into the  DNA of the host. This integration in some cases leads to disruption of the E2 gene, which  results in increased replication of the E6 and E7 genes. The E6 protein binds to p53 causing  it to degrade. The E7 protein inactivates the RB protein so that E2F proteins detach from the  RB, preventing transcription of the gene that regulates cell growth and differentiation [5,  11]. It has been established that E6 and E7 interfere with the immune response by reducing  production of interferon (IFN) [5]. Therefore, the E1 and E2 genes of HPVs are involved in  viral replication, while the E6 and E7 proteins function as the promotors of proliferation. The  major HPV oncogenes are E6 and E7, which disrupt the normal regulation of the cell cycle  and cell progression, giving them an important role in the oncogenesis of HPVs with a high  risk of causing anogenital and cervical cancer. Immortalization of epithelial cells induced by  HPV requires viral DNA integration into the host cell genome, which causes disruption of the  E2 gene. The E2 protein is also a transcription factor, which regulates expression of the E6  and E7 oncoproteins. Integration of the virus in the human genome disrupts the E2 gene and  increases expression of E6 and E7 genes in vitro [12-21]. Concerning molecular events during the progression of cervical lesions to carcinogenic  lesions, persistent high-risk HPV infection leads to integration of HPV into the host genome  and to overexpression of oncogenes E6 and E7 [11]. On the molecular level, interaction of  Е7 with the pRb protein leads to aberrant initiation of the S-phase. The E7 oncoprotein  causes release of E2F transcription factor from the pRb protein, which is then active and  can initiate transcription of genes involved in cell cycle progression, contributing to cellular  immortalization and transformation. Thus, Е6 targets р53 for proteasomal degradation,  which leads to inhibition of apoptosis and DNA repair (anti-apoptotic effect). It is important  to emphasize that only high-risk HPV types can induce degradation of p53, which can then  lead to carcinogenesis. E6 activates the PI3K/Akt pathway, interacts with cellular proteins  NFX1, and induces human telomerase reverse transcriptase (hTERT) activation, leading to  immortalization and transformation. The interaction of both oncoproteins with DNA methyl  transferases leads to aberrant methylation, causing silencing of tumor suppressor genes.  Also, E7 interaction with histone deacetylases (HDACs) causes chromosome remodelling and  genome instability. So, during lesional progression to carcinogenesis, the cross interaction of  E6 and E7 with various pathways plays the crucial role [22]. It is also important to mention  that viruses like HPV can create virions and become transmissible at any point in their life  cycle (the productive virus replication also known as lytic replication). When lytic replication  of the virus begins, it is almost irreversible, and successful replication of the virus begins  as well as host cell death. But in tumor cells, these infections are mostly latent, allowing  the virus to evade the immune response. Thus, lytic replication of the virus is reduced or  absent in the tumor. In viral latency there in no production of unnecessary viral proteins that  could initiate cell mediated immune recognition. Integration of the viral genome into the  host genome eliminates the virus’s ability to replicate as virions, but the virus can replicate  using the host’s cellular mechanisms and can be divided whenever the host cell divides. By 
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 74 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis evading apoptosis, as previously described, oncogenesis begins [23]. All this indicates that  a complex network of actions is involved in the pathogenesis process during the occurrence  of HPV manifestations. Stress, types of stressors, the hypothalamic-pituitary-adrenal (HPA) axis, the  sympathetic autonomic nervous system (ANS) and the impact of stress on the body  and disease Stress is defined as physical or mental exertion caused by factors that change homeostasis,  and it can be observed as an objective stimulus, as an organism’s response to stimulus, or as  a relation between a person and their surrounding environment. Stress is a state of threat  to physical, psychological, and social homeostasis. More recent approaches define stress as  any stimulus that causes sudden termination of ordinary activities, that is, an event that  goes beyond what is normal for the organism. The impact or effect, which stress can have,  depends on a person’s genetic pool, experiences, and behaviors [24-28]. The biopsychosocial  model of disease and health, for example, asserts that biological, psychological and social  factors interdependently affect the course and outcome of disease (Fig. 1). Psychological  stress has become an increasingly important factor in the course of disease, due especially  to the circumstances of modern life [25]. Stressors can be physical, chemical, psychological and biological. Psychological and social  strains are the most common stressors [25]. Stress can be categorized by duration (acute  or chronic), relevance (avoidable/averted or unavoidable), and intensity (mild, moderate,  or severe). Aside from stress caused by common life events, there are also big traumatic  events such as war, a natural disaster, death in the family, job loss, etc. Psych trauma is a state  of high-level stress that can result in posttraumatic stress disorder (PTSD) and can cause  long-lasting health problems. In physical, chemical, and biological stress, the condition of the  person is determined by the harm caused by an external stimulus, whereas in psychological  stress, one’s assessment of environmental dangers, threats or challenges is the important  factor. Stress in humans usually manifests through physical symptoms (e.g. palpitations,  shortness of breath, perspiration, angina pectoris, frequent infections) or psychological  symptoms (e.g. indecisiveness, poor concentration and memory loss, high sensitivity, sleep  Fig. 1. Factors which participate in onset  and course of HPV manifestations (based  on current literature data)
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 75 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis disturbances, negative thoughts). As a result, stress-related illnesses can occur (e.g. gastric  ulcer, hypertension, viral infection, myocardial infarction, psoriasis, allergies, asthma, anxiety  disorders, tumors, gastrointestinal disorders) [26-28]. When stressed, the organism reacts in a stress-adapting manner that can take place  at the cell-, organ- or organ-system level, or at the level of the entire organism [25]. The  organism typically reacts in three phases to a threat or injury with the same set of reactions  outlined by the General Adaptation Syndrome (GAS): (1.) alarm; (2.) resistance; and (3.)  exhaustion, the long-lasting debilitating phase that makes one susceptible to disease onset  [29]. When reacting to external and internal demands by modulating functions and adapting  to new conditions (referred to as alostasis), system stability can be achieved through  constant adaptation. The main adaptive system includes the hypothalamic-pituitary-adrenal  (HPA) axis, sympathetic autonomic nervous system, and cytokine production (Fig. 2) [19- 22]. Pathogenetically, the body neutralizes stress with a complex network of physiologic  and behavioral responses to reestablish optimal body equilibrium (eustasis) [30]. As  crucial components of the stress response, the HPA axis and the autonomic nervous system  (ANS) interact with other vital centers in the central nervous system (CNS) and peripheral  tissues/organs to mobilize an adequate/appropriate adaptive response against stressors.  Thus, different stressful events are recognised by the hypothalamic paraventricular nucleus,  which participates in a biological circuit that integrates personal experiences, physiological  signalling and the release of corticotropin-releasing hormone (CRH) [31]. CRH acts on the  pituitary gland, which then releases adrenocorticotropic hormone (ACTH), followed by  ACTH signals to the adrenal cortex to release glucocorticoids [31]. Thus, the body’s adaptive  stress response depends on many interconnected neuroendocrine, immune, cellular, and  molecular mechanisms. During stress, the brain and CNS are the main actors; their response includes a variety of  crucial neuroendocrine and autonomic reactions in order to achieve homeostasis [25-28, 32- 35]. During that process, neurogenic stressors activate processes in the CNS. Signals are then  transferred to periventricular nuclei from prefrontal cortex and limbic structures, where stress  is compared to experiential events. This processed signal is transferred to the hypothalamus,  which in turn activates the HPA axis. Hypothalamic nuclei receive stimuli from limbic and  Fig. 2. Stress-induced reactions  and psychoneuroimmune network  during HPV onset, manifestations  and course
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 76 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis brain stem catecholaminergic signalling pathways. Periventricular nuclei can be activated by  locus ceruleus aminergic signals. Central, medial and cortical amygdala nuclei are connected  to periventricular and gabaergic neurons forming a closed circle. Activation of glutaminergic  neurons stimulates the hypothalamic release of CRH in the eminentia mediana, which then  reaches the hypophysis (anterior pituitary) through portal circulation and stimulates the  release of ACTH into the peripheral circulation. Activation of the sympathetic nervous  system causes terminal nerves and adrenal gland medulla to secret more catecholamines  [36, 37]. The immune system affects the brain as well; thus, there is a bilateral connection.  It is important to emphasize that ACTH stimulates the release of glucocorticoids from the  adrenal glands, meaning cortisol is a main stress hormone. Sympatho-adrenomedullary  axis (SAM) activation stimulates CRH secretion in the hypothalamic periventricular neuron  (PVN) area [25-28, 38]. Stress enhances the activities of many systems and releasing of  various substances, including catecholamines, opiates and corticosteroids, which have an  immunosuppressive effect by decreasing activity of cytokines and inflammation. It has  been shown that immune cells have hormone receptors (corticosteroid, prolactin, growth  hormone, sex hormones), neuropeptide receptors (endorphins, vasoactive intestinal peptide,  substance P, etc.) and neurotransmitter receptors (adrenaline, noradrenaline, acetylcholine,  serotonin, etc.). During acute stress, posterior hypothalamic nuclei, the sympathetic nervous  system and adrenal gland medulla are activated, while in chronic stress, the anterior  hypothalamus, sympathetic system and adrenal gland cortex are activated. Finally, the release of glucocorticoids, mainly cortisol, is followed by increased lipolysis  and gluconeogenesis to supply the body with available energy sources. A negative feedback  system regulates production of cortisol via the hypothalamus and pituitary glands. In addition,  the sympathetic nervous system (SNS) is activated and stimulates the adrenal medulla to  release catecholamines, adrenaline and noradrenaline, allowing the body’s systems to  transport energy to the organs more quickly. Consequently, homeostasis is re-established,  provided the stressor falls into the adaptive capacity [31]. However, during severe and/ or chronic stress, dysregulation of the stress system (hyperactivation or hypoactivation)  can disrupt homeostasis and lead to cacostasis or allostasis with possible various clinical  manifestations [30]. Prolonged activation of stress mechanisms with increased glucocorticoid  and catecholamine levels causes a condition where the demand on the individual exceeds  their personal adaptive capacity (allostatic load). Therefore, according to research results,  chronic stress and increased glucocorticoid/catecholamine levels may participate in cancer  progression in different diseases, including HPV-related carcinogenesis [31]. It is significant that cortisol, as the main stress hormone, modifies apoptosis and  changes the way in which cytokines are secreted. It is assumed that exposure to relevant  stress events can result in dysregulation of the sensitivity and numbers of glucocorticoid  receptors (GCR), and that cortisol can affect secretion of local cytokines and trigger stronger  inflammation [25, 27, 39]. Glucocorticoids exert their effects through two subtypes of  intracellular receptors: (type I) GCR with a high affinity for endogenous corticosteroids (that  has a regulating function over the circadian rhythm of the HPA axis) and (type II) GCR with  a lower affinity (important for acute stress reactions). In the nucleus, glucocorticoid acts as  a transcription factor, and it binds to specific DNA sequences named glucocorticoid response  elements (GRE). These sequences modulate gene transcription. Glucocorticoids also interact  with other transcription factors, such as AP-1 (activator protein 1) and NF-κB (nuclear  factor kappa B). During a stress inflammatory response, glucocorticoids decrease secretion  of proinflammatory cytokines and increase secretion of anti-inflammatory cytokines. They  also affect redistribution of leukocytes and decrease synthesis and expression of cytokine  receptors, lymphocyte proliferation and adhesion molecule expression on the cell surface. Finally, in stress, adaptive reactions involve the short-term activation of the HPA axis,  whereas overproduction of stress hormones and disruption of the regulation of the HPA  axis triggers a pathological response/reaction. Just as the cognitive perception of stress  is important, so is coping, defined as the constant adaptation of cognitive and behavioral  efforts to overcome demands that one finds overwhelming. Adaptive coping styles are 
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 77 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis usually related to positive personality characteristics, while maladaptive styles are linked to  less desireable characteristics. The coping styles a person uses depend primarily upon the  situation but also on the disposition of the person themselves. Results The most important results and current knowledge on HPV, stress and carcinogenesis  will be presented here, and relevant trends and patterns will be described. Psychological stress and immunological parameters related to infections Research in the field of acute and chronic stress have shown that many biochemical  changes, e.g. changes in the blood, have been observed in people experiencing stressful  events. For example, acute stress increases the number of lymphocytes in the peripheral  blood, especially natural killer (NK) cells. Also, during short-term stress events (e.g., an  exam), cytokine production disturbances have been observed along with a shift from T  helper lymphocytes type 1 (Th1) towards T helper lymphocytes type 2 (Th2), with higher  levels of immunoglobulins [25-28, 38]. During chronic stress, lower numbers of lymphocytes, decreased NK cell activity,  lymphocyte proliferation to mitogen stimulation and phagocytosis, decreased cellular  immunity, and late hypersensitivity reactions were observed. According to previous research  results, during psychological stress, higher titers of antibodies against viral infection  (Epstein-Barr virus antibodies) as well as reactivation of EBV, cytomegalovirus, and herpes  simplex virus were recorded [25]. Thereby, latent viruses can be reactivated, and antibody  production decreased. In the setting of chronic stress, there is a shift towards a Th2 response  (with limited production of IFN and IL-2), which enhances humoral immunity and decreases  cellular immunity, possibly affecting the development of infections and autoimmune and  malignant diseases. Immune responses to stress depend on duration of the stress factor  effect; subsequently, stress of shorter duration causes translation from specific to innate  immunity, while in the setting of chronic stress, this translation is seen in a change from  a Th1 type reaction to a Th2 type reaction. It is significant that Th1 cells engage in cellular  immunity, secrete IL-2 and IFN-γ, TNF-β and activate macrophages, while Th2 cells induce  humoral immunity by activating the B cell response and antibody production, as well as  secreting IL-3, IL-5, IL-10, and IL-13. Increased psychological stress can result in a higher occurrence of viral infections,  especially those mediated by IL-6. The influence of stress on cell apoptosis can also be  observed, where apoptosis disruption can lead to immunosuppression. For instance, in  acute stress (e.g. academic stress) the process of apoptosis, important in carcinogenesis  and the function of the immune system, is more frequently blocked. In a specific example, a  connection has been observed between women with cervical lesions who have a pessimistic  view of the world and immune system disorders, lower infection control and a higher risk  of neoplastic cervical lesion progression. Chronically high sympathetic system activity  decreases lymphocyte proliferation and changes the Th1/Th2 cell ratio in a way that  suppresses Th1 cytokines, therefore reaction evolves in the direction of Th2 cells, which can  increase the risk for a high virus replication rate. Also, the relationship between psychological stress and increased sensitivity to  respiratory infections can be explained by the impact of stressful life events on immunological  functions. It has been shown that psychosocial stress and limited social support can have a  big impact by increasing susceptibility to upper respiratory tract viral infections. Patients  with colds, for example, had a statistically significant higher average sum of greater stressful  life events in the previous year compared to patients without a cold [40]. Results have also  concluded that urinary system infections are more frequent in people who suffer greater  stress [41]. Concerning HPV, it has been observed that a higher number of life stressors in at  least the previous 6 months, the absence of social support and the types of personal coping 
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 78 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis mechanisms employed influenced the progression of HPV infection [25, 42]. In women, it  has been shown that HPV infection and stress result in the disruption of IL-6 secretion and  the progression of cervical lesions to cervical dysplasia. In chronically stressed caregivers  who care for relatives suffering from dementia, a fourfold increase in IL-6 concentration  was seen (by longitudinal observation). In women with cervical dysplasia, a connection  between greater stress experiences and dysregulation of specific immune responses has  been observed. The connection between stress, immune factors, infections and carcinogenesis often  includes a link between HPA/SNS functions, immunosuppression and viral oncogenesis,  which together work within the immune response - both glucocorticoids and catecholamines  regulate different immune functions (antigen presentation, T-cell proliferation, cell-mediated  reactions, humoral immunity, etc.) [43-45]. Stress-induced immunosuppression is especially  important for infection-related cancer, whereas disturbed cellular immunity may contribute  to increased risk of oncogenic viral infection and DNA damage. Since several human  tumor viruses including HPVs (HPV 16, HPV 33, etc.) are sensitive to the glucocorticoid/ catecholamine-activating signalling pathways, stress hormones may consequently reactivate  latent tumor viruses, stimulate viral oncogenes expression, and inhibit antiviral host  responses. In response to glucocorticoids, high-risk HPV may activate gene expression,  interact with cellular proto-oncogenes and evade the cellular immune response by down- regulating the HLA expression of class. Conversely, glucocorticoid antagonists suppress  infection (the HPV activity) [43]. Pathogenesis of HPV infection and HPV-related carcinogenesis and possible association/ relation with stress and psychosocial factors Once HPV enters a cell via the α6 integrin (which functions as a receptor) there are  three possible sequences: latent infection (identified only by molecular diagnostic methods),  subclinical infection (identified by colposcopy, peniscopy or microscopic examination),  and clinically manifest disease. Incubation lasts 1 to 8 months [44]. HPV proliferation in  differentiated epithelial cells induces morphologically cytopathic changes in the form of  koilocytosis best seen in condyloma (koilocytosis is not specific to HPV) [44, 46]. HPV infection  histologically manifests with thickening of the epidermis, spinous layer, hyperplasia, and  hyperkeratosis. Another important pathogenic factor for HPV lesion ocurrence is ultraviolet  light (UV). Normally, UV induces mutations in basal keratinocytes with consequent repair  of DNA mutations or apoptosis. In the case of HPV infection, the cellular response to UV- induced damage is inhibited by E6 and E7 expression. This causes proliferation of damaged  cells with a potential for malignant alteration [1]. Aside from the skin, HPV DNA can be found in anogenital and oropharingeal malignancies  as well as precancerous conditions. In these tissues’ viral oncogenes, E6 and E7 expression  is regularly present. Expression of the E6 and E7 genes is also found in cervical cancer cells.  All this supports the observation that HPV has a role in the etiology of epithelial cancer [8].  Furthermore, epidemiology data suggest that HPV infection is a major factor in the etiology  of cervical cancer. For the formation of irreversible malignancy, the following sequence is  necessary: initial expression of E6 and E7 genes followed by suppression of apoptosis and the  stabile expression of E6 and E7 proteins that protect transformed cells from apoptosis. This  is also the reason for tumor resistance against chemotherapy or hypoxia in HPV malignant  lesions [8, 46]. Changes in cellular immunity in HPV infection are associated with changes in cytokine  levels, induction of cellular adhesion molecules, and changes in molecules of tissue  histocompatibility, human leukocyte antigens (HLA). Thus IFN-γ and cytokines act on the  JAK signal transduction pathway. In vitro studies indicate that E region of HPV can bind to  the signal transducer and activator of transcription (STAT) protein and inhibit IFN genes.  E6 also reduces IFN gene expression and binds to Tyk2 kinase, preventing STAT protein  phosphorylation and reduced cellular response to infection. It has also been found that up  to 60% of HPV-infected patients have a low titer of antibodies that are specific for the viral  capsid [47].
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 79 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis Psychosocial factors may affect the development and persistence of HPV, primarily  by acting on the immune response. An association between psychosocial stress and CIN  development in women has been established. HPV has developed a number of ways to  avoid hosts’ responses to infection. It hides the expression of viral proteins and reduces the  expression of genes for IFN-α in keratinocytes. A successful immune response is characterized  by a strong, local cell-mediated immune response. The immune response depends on the  duration of stressors—a shorter duration of stress shifts from specific to innate immunity,  while chronic stress shifts it from the Th1 type of reaction to the Th2 type of reaction.  Significantly, Th1 cells participate in cellular immunity, secrete IL-2, IFN-γ, and TNF-β  and activate macrophages, and Th2 cells stimulate humoral immunity, activate the B cell  response and antibody production, as well as promote the secretion of IL-3, IL-5, IL-10, and  IL-13. The natural course of HPV infection can vary. It may disappear spontaneously, last, or  lead to the appearance of intraepithelial neoplastic lesions and, ultimately, to the appearance  of cancer. Oncogenic transformation requires the integration of the virus genome into the  host genome. In doing so, DNA in the E1 region of E2 breaks down, leading to transcription  disorders of E6 and E7. A number of other risk factors are also involved in the onset of  malignant transformation: promiscuity, a lower socioeconomic status, a higher number of  pregnancies and abortions, use of oral contraceptives, smoking, co-infections, and stress. The  pathogenetic life cycle of HPV can be divided into two stages: (stage 1) persistence, i.e. HPV  DNA is found in basal cells lasting from a few weeks to several years, with a low level of virus  replication over many generations) and (stage 2) the productive phase (occurs in terminally  differentiated suprabasal keratinocytes with the appearance of viral DNA amplification,  capsid gene expression and virion formation) [44]. Several factors are important for the  regression of HPV manifestation/infection, one of which is the influence of psychological  stress, because it has been proven that stress can prolong the duration and severity of HPV  disease [25]. In the regression of HPV infection, increased activity of Th1 cells was observed.  However, during psychosocial stress, a decrease in the Th1 type of immune response is seen,  and there is a shift towards the Th2 type of immune response. The association between psychologic stress and HPV carcinogenesis can be explained  by a few possible mechanisms [43]. The stress-activated HPA axis and SNS act through  glucocorticoid- and adrenergic- pathways which impact immune regulation, involving stress- induced immunosuppression and oncogenic infection and other potentially stress-triggered  neuroendocrine transmitters which influence cancerogenesis (e.g. serotonin promotes  tumor cell growth and angiogenesis; dopamine exerts opposite actions) [43]. The adrenergic  pathway and SNS activation support carcinogenesis through tumor growth, malignant  transformation, macrophage infiltration, angiogenesis, inflammation, dissemination, etc.  Thus, in cervical cancer cells, sustained adrenergic signalling results in protein kinase A  (PKA) activation, which then causes inhibition of the tumour suppressive pathway (Hippo  Yap pathway). According to research data, a strong association between stress/bereavement  and a high viral load infection (HPV16) includes the promoting of overexpression and  malignant transformation of HPV oncogenes, and a strong association between repeated  infections and bereavement/stress may compromise host immunosurveillance and mediate  HPV persistence or reactivation [45]. According to Lu, stress/bereavement was associated  with an increased risk for cervical cancerogenesis, especially for women with high screening  adherence or when multiple losses, loss of a child, sibling or spouse, and loss due to unnatural  causes were analyzed separately [45]. Thus, stress hormones (corticosteroids) affect signal  pathways involved in the malignant cell transformation processes induced by oncogenic  human viruses.
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 80 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis Discussion It is known that stress affects the immune system by redistributing immune cells  (leukocyte and neutrophil numbers increase, lymphocyte numbers decrease), which is  supported by increased activities/values of catecholamines, cortisol, chemokines and  adhesion molecules secreted during stress reactions [48-52]. Leukocytes are especially  important because they secrete cytokines, affect the HPA, and have cytokine, hormone,  neurotransmitter and growth factor receptors, etc. Current studies have observed that  stressful life events can influence genes. That is, they exert activity changes in a variety  of genes, which then leads to modulation of immunological reactions, including leukocyte  numbers and distribution [52]. Furthermore, it has been seen in animal models that the  neutrophil to lymphocyte ratio predicts susceptibility to infection [48]. A higher cortisol  level, combined with increased neutrophil and decreased lymphocyte numbers, has been  observed in psychologically stressed people [25]. There are some observed (biochemical)  changes in plasma protein levels, as confirmed by studies of their values during illness and  stress. There are various study results on animals and humans which support the association  between psychological stress, infections and carcinogenesis (Table 1 and Table 2) [25, 48,  53-70]. Animal model studies show that stress increases values of acute phase proteins [71].  After stress, haptoglobin significantly increases, so it is used as a stress marker during animal  transport and for evaluation of the animal’s condition [72]. During acute academic stress,  elevated total levels of serum proteins, alpha-2 and beta and gamma globulins, have been  observed [73]. Similar results are seen in research by Cvitanović, where elevated leukocytes,  alpha-2 and beta globulins were observed among HPV patients with significant experienced  stress [25]. Immunocompromised patients are more susceptible to developing a variety of  infections, including HPV infection. Research results in the field of hormonal changes in stressed people, especially changes  in cortisol levels and hormones of the HPA axis, are significant as well. Hypocortisolemia  is evidenced in people subjected to severe stress, as well as in chronic fatigue syndrome,  fibromyalgia, and rheumatoid arthritis. On the other hand, elevated glucocorticoid levels  are associated with elevated leukocytes, decreased numbers of circulating lymphocytes  and a decreased neutrophil to lymphocyte ratio. Cole has observed a significant correlation  Table 1. Prominent animal study results which support the association between psychological stress,  inflammation and carcinogenesis (articles are in alphabetical order by author)  Ȁ
+  
+
+ Ǧ ǡ ʹͲͳͷ 
+ 
+
+
+ǡ
+ Ǧ
+
+Ȁ
+
+ 
+ǡ
+
+ ǡǤ 
+
+ǡͳǡ
+ͳͶΪ
+ǡ 
+͸ͺΪ
+Ǥ
+
+
+ǡ
+ 
+Ǥ
+
+
+
+ 
+
+ͳ
+Ǥ
+
+ǡ ͳͻ͸ͺ 
+ 
+
+
+ȋ
+Ȍ
+ 
+ǦǤ 
+
+ǡ
+ 
+Ǥ
+
+Ǥ
+ Ǥ ǡ ʹͲͳ͵ 
+ȋ Ȍ 
+
+ 
+
+
+
+
+
+ 
+Ǥ 
+
+
+Ǥ Sympathectomy or genetic deletion of stromal β2Ǧ/β3ǦǤ 
+
+
+
+ͳ
+Ǥ 
+
+
+ 
+
+
+
+Ǥ ǡ ʹͲͳ͵  ȋǡȌ 
+
+Ǧ
+
+ȋ
+ǡ 
+
+Ȍ
+
+ǡ
+ 
+ȋȌǤ 
+
+
+
+ǡ
+
+
+
+
+ǡ ǡǤ 
+ ǡ ʹͲͲͶ 
+ 
+ȋȌȋȌ 
+
+
+ȀͺȋȀͺȌ 
+ȋȌ 
+Ǥ ȋȌ
+
+
+
+ 
+Ǧ
+
+
+ ȋ
+
+Ȍ
+Ǧͳͷȋ
+ Ȍ
+Ǧͳʹȋ
+
+ȌǤ ǡ ʹͲͲ͵ ȋ 	
+͵ͶͶȌ 
+
+ǡ
+
+ 
+ Ǥ ʹͶ
+ͷͳǦ
+
+ǡ
+ 
+
+ͷͳǦ
+ȋǡ
+
+
+ Ȍȋ͵ͲΨ
+ȌǤ
+
+ǡ 
+Ǥ 
+ǡ ʹͲͲ͸ 
+ȋ
+ Ȍ 
+
+
+ȋȌ 
+Ǥ 
+
+ǡ
+
+
+
+
+ 	ǡ ʹͻǡ
+
+
+Ǥ 
+Ǧ
+
+
+Ǧ ȋ
+
+
+
+ȌǤ 	ǡ ʹͲʹͳ ȋʹͳǦǦ Ȍ 
+
+
+
+
+ 
+
+ȋ ȌǢͻͲǡȋȌ 
+
+ȋͶǦͳǦȋͶȌʹͲ ȌǦǡ 
+
+
+ȋȌ 
+Ǥ 
+
+
+
+
+ʹͲǤͶΨ
+
+ǡ 
+
+Ǥ
+̵ǡ
+ ȋ	Ǧǡ
+ͳǦǦͳȌǡ	Ǧǡ
+Ǧ͸ǡ
+ͳǦ Ǧͳ
+Ǥ
+
+ 
+
+
+ǡ
+
+
+
+ȋȌǤ     
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 81 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis between circulating leukocyte numbers and cortisol concentration only in the presence of  GCR sensitivity [74]. Observations on the possible mechanism connecting chronic stress and  infection are considerable. People who are chronically stressed throughout life could be at  risk for an HPA disorder and decreased immune defense reactions to infections, which are  mediated by many cytokines and other transmitters. When cortisol regulation and cytokine  production are disturbed, a disbalance of the Th1/Th2 immune reaction and the emergence  of clinical symptoms, are possible. Subsequently, in patients exposed to severe chronic stress,  a weakening of the HPA axis is observed [74, 75]. There are specific examples of cortisol levels  being connected with immunological changes, although results are not always consistent.  According to some studies on HPV infection, there is a negative correlation between patient  cortisol levels and exposure to chronic stress; other studies show no such correlation [13].  However, there are more results showing that higher cortisol levels and higher levels of  experienced stress are connected to the progression of CIN changes Previous studies on corticosteroids in patients with various cancers indicated  association/relation [31, 43, 55]. For example, in patients with prostate cancer, cortisol  stimulates carcinogenesis by activating the androgen receptor in the absence of androgens.  In ovarian cancer, glucocorticoids have anti-apoptotic effects on cancer cell lines, by  upregulation of the anti-apoptotic proteins. Also, in colon cancer, the stress hormones  pathways induce the proliferation of metastatic cancer cells by upregulating CDK1 expression  (a dysregulation of CDK is associated with tumour proliferation activities). Studies on cervical  Table 2. Main study results (human subjects) which support the association between psychological stress,  infections and carcinogenesis. Abbreviations: Appr.-approximately; ADRB-β-adrenergic receptor; HPV -  Human papillomavirus;  PBI - psychosomatic behavioral interventions; RRs - relative risks; SIL - squamous  intraepithelial lesions; TCM - traditional Chinese medicine  Ȁ
+ 
+  
+
+ǡʹͲͳͷ 
+
+Ǧ 
+
+ǢͳͻǦ
+
+ȋ͸Ͳͳǡ͹͹ͷȌ 
+Ȁ
+
+ ǡǤ
+Ǧ
+
+ǡ
+
+ ǡ
+
+
+
+Ǥ 
+ȋǡ
+
+Ȍ
+ǦȀ
+
+ 
+
+
+Ǥ 
+ǡ ʹͲͲͺ 
+
+
+ǢǦ
+ 
+ǡǦ
+
+
+Ȁ
+
+
+ 
+
+
+
+ǤǦǡ
+ǡ ǡ
+
+
+
+
+
+ ȀǤ ǡ ʹͲͲ͸ 
+
+
+Ǧ
+Ǣ
+
+ Ǧ
+Ǧ 
+
+
+
+Ǧ
+Ǥ 
+Ǧ
+ȋ͵͹ǤʹΨȌǡ Ǥ
+
+
+Ǧ
+Ǥ ǡ ʹͲʹͳ 
+
+
+
+ Ǥ Ǧ
+Ǥǡ
+ 
+
+
+
+Ǥ Cvitanović H, ʹͲʹͲ 
+
+ȋ
+ǡʹǦǡǦǡ ǡȌ
+
+
+
+Ǣ
+Ǧ 
+ 
+
+
+ǡʹǦǡǦ ǡ
+
+
+
+Ǥ
+
+ 
+
+
+
+ʹǤ͸͵Ǥ
+ 
+
+Ǥ ͳͻͻͺ ǡ
+
+
+ 
+
+ȋͳ͸	Ǣ 
+Ǣ
+
+ Ȍ 
+
+
+
+
+ 
+
+ǡ
+Ǥ ǡ ʹͲͳͻ 
+
+
+
+
+
+ 
+
+Ǧ
+
+Ǣ
+ 
+
+
+
+
+
+Ǧ
+
+Ǥ
+
+
+ 
+
+ǡ
+
+
+
+
+ 
+
+Ǧ
+
+ǡ
+
+
+Ǥ 	
+ǡ ʹͲͲͺ 
+
+
+ǡ
+ 
+ͳ͸Ǣ
+
+
+Ȁ ǡ
+Ǧ
+
+ͳ͸ ȋȌǡ
+
+ȋ
+ǦȌ 
+
+
+Ǧ
+ͳ͸ǡ
+ Ǧ
+
+Ǥ
+
+
+ǡ
+ 
+
+Ǧ
+
+ǡ
+ 
+
+
+Ǥ 		ǡ ʹͲͲͺ ȋ
+Ȍ
+
+
+ 
+ǡ
+
+Ǧ
+
+Ǣ
+
+ 
+
+
+
+
+
+
+ ȋǤǤǡ
+
+
+
+Ȍǡ
+
+ͷ
+Ǥ
+
+ 
+
+
+ͷǦǤǡ
+ ǡ
+
+Ǧǡ
+
+Ǥ 
+ǡ ʹͲͳ͵ 
+
+
+
+
+ Ǣ
+ͶͶǡͳͷʹ  
+
+
+
+
+
+
+Ǥ 
+
+
+
+
+
+
+ǡ
+ 
+
+Ǥ ǡ ʹͲͳ͸ 
+ȋǤǤǡȌ 
+
+
+Ȁ
+
+
+
+ǡ
+
+ǡǤ 
+
+ȋʹǡͶ͸͸ǡͳͲ͹ǡ
+Ǧ 
+
+
+ȌǤ 
+ͶǦͻΨ
+ǡ
+
+
+
+Ǥ 
+͸ʹΨ
+
+ͳ͸
+ǡǡ
+ 
+ǡ
+
+
+
+Ǧ 
+
+
+
+Ǥ
+
+
+
+
+
+ Ǧ
+
+
+
+
+Ǥ ǡ ʹͲͲͳ ͳʹ
+
+
+ǡ 
+Ǥ 
+ȋǦ
+Ȍ
+
+
+
+
+ǡ ǡͳͷΨǦǡǦ
+ǡ Ǥ	
+͹ΨǤ 
+
+ǡ
+
+Ǥ ǡ ʹͲͲ͵ 
+Ȁ
+
+
+Ǧ 
+
+
+
+ͳǦǦǢ͵ʹ
+
+Ǧ
+
+
+ ǡǡ
+
+ǡ
+
+
+Ǥ 
+
+Ȁ
+ͳǤ Ǧ
+
+
+Ǥ
+ 
+
+Ȁ
+
+
+Ǧ
+Ǥ 
+
+Ȁ
+
+
+Ǥ  ǡ ʹͲͲͻ 
+
+
+ǡ
+
+ 
+ǡ
+
+
+Ǥ
+Ǧ 
+ǡ
+ǡǡǡ
+ǡ 
+
+
+ 
+
+
+
+
+
+
+
+ȋʹ͸ͷ 
+ȌǤ 
+
+
+
+ǡ
+ǡ 
+
+ǡ
+
+
+
+ 
+
+
+Ǥ
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 82 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis and lung cancers showed that dexamethasone influences cell apoptosis. Dexamethasone  downregulated cisplatin-induced expression of cell death receptor pathway components,  which indicates its anti-apoptotic role in many cancers, although pro-apoptotic actions are  seen in lymphoid carcinomas. Also, glucocorticoids activate the PI3K/AKT pathway which  inactivates pro-apoptotic factors/molecules (eg. caspases). This is the same pathway that  HPV uses to cause immortality of transformed cells. HPVs E6 protein can activate oncogenic  pathways including phosphoinositide 3-kinase (PI3K)/protein B (Akt), Wnt and Notch. The  PI3K/Akt pathway controls cell proliferation, cell growth, angiogenesis and cell survival  by influencing multiple downstream targets. In addition, dexamethasone increases some  cancers’ resistance to cytotoxic therapy (hepatocellular and colorectal), and in some cancers  dexamethasone enhanced the growth of cell lines treated with 5-fluorouracil or cisplatin  (breast, cervical, melanoma, neuroblastoma). For oncology patients, it is important to  consider that glucocorticoids may induce chemotherapy resistance by blocking tumor cell  death (i.e. anti-apoptotic effect), although cortisol is routinely administered throughout  chemotherapy for treatment/prevention of nausea and allergic reactions. Corticosteroids  affect signal pathways involved in the malignant cell transformation processes induced by  oncogenic viruses. Glucocorticoid signaling participates in solid tumor progression through  increased cell proliferation, inhibited apoptosis and DNA repair activity. In addition, in  many cancer patients, chronic stress is associated with flattened diurnal cortisol rhythms  and increased nocturnal cortisol, especially in those in advanced disease/cancer stages,  and the altered cortisol patterns may partially reflect patient distress and/or avoidant  coping. In various cancers (breast, lung, renal), the flattened cortisol slope is associated with  compromised survival [43]. Not only are there studies that show the influence of psychological stress on  immunological parameters and infection and carcinogenesis, but it has also been suggested  that psychological stress impacts clinical manifestations of HPV, though study results  are not consistent [25, 45, 68, 70, 76-78]. In several studies, the influence of negative life  events, specifically, on clinical manifestations of HPV has been researched. Also, Pereira has  observed that at higher levels of exposure to stress there is progression and persistence  of precancerous HPV lesions [69]. According to Coker, psychosocial stress influences the  course of genital HPV infection. Some other recent studies also show a connection between  infections and stress [62]. It has been shown that perceived stress is associated with a longer  duration of HPV infection in men over 50 years of age, although the association with HPV  infection incidence has not been confirmed. There is some evidence that level of perceived  stress (but not the number of negative life experiences) is associated with unreactivity to  HPV 16, which was explained by the Th1/Th2 balance shift towards a Th2 type cytokine  reaction [51, 78]. Coker also demonstrated that in Caucasian women, negative life events  caused deterioration of HPV lesions [62]. The same was not true for Afroamerican women,  which was explained by socioeconomic differences. Furthermore, Coker has demonstrated  that psychological abuse is associated with pathological findings in Papanicolau cervical  smears. Unlike Coker, Wilkerson did not find any correlation between pathological findings of  clinical HPV manifestations and perceived stress or number of negative life events [70].  Likewise, Sharp did not find a significant correlation between the influence of negative life  events and HPV lesions [76]. Also, according to Massad, there is no statistically significant  correlation between perceived stress and clinical HPV manifestations [79]. According to  research by Massad and research by Wilkerson, it hasn’t been determined whether stress  or depression affects the prevalence of changes associated with HPV [70, 79]. Still, most  research points to stress being a potential risk factor for development of HPV infection [51,  68, 80]. The influence of stress on patient compliance, and eventually on development of  HPV skin and mucosal lesions, should also be considered because elevated stress levels can  lead to decreased patient compliance, thus persistence or progression of intraepithelial  lesions [70].
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 83 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis There are also some differences by sex in how stress affects HPV manifestations [25].  Thus, it has been observed that men, after being exposed to psychological stress, are more  vulnerable to diseases than women. Longer lasting HPV infection in women who are older  and have more notable stressful experiences was also observed. There is also a difference  between the sexes in regard to localization of HPV manifestations—in women lesions in the  genital region are more common, while in men they are more common in the oral region.  Also, HPV transmission rates are higher in women, and the immune response, which is  stronger in women, depends on anatomic localization. It has been observed that women are  better protected from infection/the effects or manifestations of infection. Another difference  seen in men is a lower prevalence of HPV 6, 11, 16 and 18. Men and women also perceive  the importance of HPV infection differently by the very fact that there is a much higher  incidence of carcinoma in women with evident HPV infection. There is an added impact of  socioeconomic status on HPV manifestations for women of lower socioeconomic status, for  whom, even though they don’t have more prevalent HPV infections, carcinoma caused by  HPV is more prevalent. This is presumably due to decreased accessibility to health resources,  but also due to greater stress, maladaptive coping styles and limited social support. With HPV infection, the patient’s perception of stress is important [80-84]. According  to research by Cvitanović, a higher level of perceived stress means the probability of genital  manifestations significantly increases (3.53 times) [25]. McCaffery demonstrated similar  results, and Coker also observed that positive HPV testing results lead to increased anxiety  [62, 82]. Also, a higher level of perceived stress has been demonstrated in women with  cervical dysplasia and HPV. Increased lytic expression of HPV as a source of stress is also an  important concern. A woman might become stressed simply by the appearance of changes on  the cervix. This could lead to greater anxiety and the possible progression of those changes/ lesions. Thus, a patient’s psychological state can lead to a closed cycle of progession of the  manifested disease [85]. Thus, adaptive coping mechanisms for dealing with stress, including stress caused by  disease, became a crucial part of avoiding a variety of health problems. According to some  research on women, stress and the process of coping with disease can decrease immunity and  thus increase the risk for clinically relevant HPV manifestations. Antoni observed a higher  incidence of cervical dysplasia in women with maladaptive coping styles than in women  with adaptive coping styles [80]. Other research has been done on the association between  psychological changes and cervical carcinoma, particularly looking at stressors and stressful  events that subjects have little control over. That kind of stress is considerably associated  with pathological findings of squamous intraepithelial lesion (SIL). Abuse (in childhood  or by a partner) is also associated with pathological findings of SIL. Psychological stress  and maladaptive coping styles are also associated with a higher risk of SIL and invasive  cervical carcinoma development, which is explained by decreased immune function. It has  also been observed that changes in the form of SIL are more frequent in persons suffering  from alexithymia, in whom decreased numbers of lymphocytes have been demonstrated.  A relationship between infection and psychological factors has also been recorded, e.g.  in anxious women, cervical cancer was more commonly found than endometrial cancer  (which is not etiopathologically associated with infection). Regarding all of this, it should  be emphasized that certain methodological issues arise when investigating the association  between stress, the immune response and disease. Tests that investigate the influence of stress  on immunological parameters are quite variable and depend upon many nonimmunological  factors (age, sex, diet, smoking, substance abuse, lifestyle and socioeconomic status). Research literature has proposed possible psychological treatments for addressing  patients with HPV [25, 70, 76, 78, 79]. Antoni asked female patients with clinically manifested  HPV infection in the form of a CIN to undergo cognitive-behavioral therapy and observed  that those who underwent treatment experienced substantially less frequent occurrences of  severe lesions with higher stages of CIN [80]. This suggests that including stress-management  in standard dermatological practice could be effective, especially for patients suffering from  anogenital HPV lesions [79]. By using adaptive methods of coping with stress and raising 
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 84 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis awareness of the effect a patient’s perception of stress can have on disease manifestations,  patient quality of life can be significantly improved and allostatic burden can be diminished. Chronic stress may negatively influence patients with cancers through suppression of  protective immunity related with cancer exacerbation and progression or metastasis, which  is important for their immuno-protective responses and successful oncology treatment  (primarily tumor immunotherapy), especiall for virally-associated cancers (HPV-associated  cervical, anal, and oral cancers etc.). While previous research has thoroughly examined  the effects of stress on some cancers (breast, prostate, lung, ovarian), more data for other  cancers could be collected and examined in greater detail. Limited data on the stress-HPV- carcinogenesis association indicates a need for more research on the different features/ mechanisms of stress-induced cancer progression. Since stress hormones and immune  disturbances may affect carcinogenesis, there is a need to expand current knowledge on  stress signalling in cancers (e.g. HPV carcinogenesis) and for a more precise understanding  of stress. Multidisciplinary approaches to research and therapy including diverse sets  of participants and factors/effects related to stress would be greatly beneficial. Also, it is  necessary to better understand psychological/psychosocial features of cancer patients, e.g.  how stress influences underlying molecular mechanisms. According to current knowledge,  there are various possible ways to relieve the impact of psychological stress on cancer  patients, such as the use of β-adrenergic receptor (ADRB) antagonists and downstream  target inhibitors (which have significant anti-tumor effects), psychosomatic behavioral  interventions, and traditional Chinese medicine [63]. Since the influence of psychological  stress on HPV infection manifestations and carcinogenesis has been proven by research,  specific psychological health measures and treatments should be designed and implemented  to help patients deal with stress and its adverse effects in a healthy way. Conclusion Present findings suggest that stress is an important risk factor for HPV manifestation  development and carcinogenesis. Understanding the key factors and processes clears the  way for effective prevention and therapeutic intervention. Even though psychological factors  have not been considered in many past epidemiological studies, they are now understood to  be important in the setting of frequent and sometimes very serious illnesses such as HPV.  Understanding perceived stress and biological changes in stress, as well as the evaluation  of immune parameters, gives researchers a better picture of how stress influences HPV  infections and how to improve disease management and outcomes. Acknowledgements We would like to express our heartfelt gratitude to Mrs. Suzana Salopek for her selfless  help and valuable assistance. Author Contributions LLM contributed conception and design of the article; LLM, HC, MK and AŠ analyzed the  data; LLM, HC and ID wrote the manuscript; all authors contributed to manuscript revision,  read and approved the submitted version. Statement of Ethics The authors have no ethical conflicts to disclose.
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 85 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis Disclosure Statement The authors declare that no conflicts of interest exist. References 1	 Tommasino M: HPV and skin carcinogenesis. Papillomavirus Res 2019;7:129-131. 2	 Smola S: Human papillomaviruses and skin cancer. Adv Exp Med Biol 2020;1268:195-209. 3	 Clifford GM, Tully S, Franceschi S: Carcinogenicity of human papillomavirus (HPV) types in HIV-positive  women: a meta-analysis from HPV infection to cervical cancer. Clin Infect Dis 2017;64:1228-1235. 4	 Stanley M: Immune responses to human papillomavirus. Vaccine 2006;24:S16-S22. 5	 Palefsky JM: Human papillomavirus infections: Epidemiology and disease associations, 2020. URL:  https://www.uptodate.com/contents/human-papillomavirus-infections-epidemiology-and-disease- associations?search=human-papillomavirus-hpv&source=search_result&selectedTitle=1~150&usag e_type=default&display_rank=1 6	 Tyring SK: Human papillomavirus infections: epidemiology, pathogenesis, and host immune response. J Am  Acad Dermatol 2000;43:18-26. 7	 Graziottin A, Serafini A: HPV Infection in women: psychosexual impact of genital warts and intraepithelial  lesions. J Sex Med 2009;6:633-645. 8	 De Villiers EM, Fauquet C, Broker TR, Bernard HU, zur Hausen H: Classification of papillomaviruses.  Virology 2004;324:17-27. 9	 de Sanjosé S, Brotons M, Pavón MA: The natural history of human papillomavirus infection. Best Pract Res  Clin Obstet Gynaecol 2018;47:2-13. 10	 Duan R, Qiao Y, Clifford G, Zhao F: Cancer burden attributable to human papillomavirus infection by sex,  cancer site, age, and geographical area in China. Cancer Med 2020;9:374-384. 11	 Tjiong MY, Out TA, Ter Schegget J, Burger MP, Van Der Vange N: Epidemiologic and mucosal immunologic  aspects of HPV infection and HPV-related cervical neoplasia in the lower female genital tract: a review. Int J  Gynecol Cancer 2001;11:9-17. 12	 Howie HL, Katzenellenbogen RA, Galloway DA: Papillomavirus E6 proteins. Virology 2009 20;384:324-334. 13	 Wu MH, Chan JY, Liu PY, Liu ST, Huang SM: Human papillomavirus E2 protein associates with nuclear  receptors to stimulate nuclear receptor- and E2-dependent transcriptional activations in human cervical  carcinoma cells. Int J Biochem Cell Biol 2007;39:413-425. 14	 Xu F, Cao M, Shi Q, Chen H, Wang Y, Li X: Integration of the full-length HPV16 genome in cervical cancer and  Caski and Siha cell lines and the possible ways of HPV integration. Virus Genes 2015;50:210-220. 15	 Schwarz E, Freese UK, Gissmann L, Mayer W, Roggenbuck B, Stremlau A, zur Hausen H: Structure and  transcription of human papillomavirus sequences in cervical carcinoma cells. Nature 1985;314:111-114. 16	 Smotkin D, Wettstein FO: Transcription of human papillomavirus type 16 early genes in a cervical cancer  and a cancer-derived cell line and identification of the E7 protein. Proc Natl Acad Sci U S A 1986;83:4680– 4684. 17	 Smith EM, Pawlita M, Rubenstein LM, Haugen TH, Hamsikova E, Turek LP: Risk factors and survival by  HPV-16 E6 and E7 antibody status in human papillomavirus positive head and neck cancer. Int J Cancer  2010;127:111–117. 18	 Smith JA, Haberstroh FS, White EA, Livingston DM, DeCaprio JA, Howley PM: SMCX and components of the  TIP60 complex contribute to E2 regulation of the HPV E6/E7 promoter. Virology 2014;468–470:311–321. 19	 Reuschenbach M, Huebbers CU, Prigge ES, Bermejo JL, Kalteis MS, Preuss SF, Seuthe IM, Kolligs J, Speel  EJ, Olthof N, Kremer B, Wagner S, Klussmann JP, Vinokurova S, von Knebel Doeberitz M: Methylation  status of HPV16 E2-binding sites classifies subtypes of HPV-associated oropharyngeal cancers.  Cancer 2015;121:1966–1976. 20	 Cheung JL, Cheung TH, Yu MY, Chan PK: Virological characteristics of cervical cancers carrying pure  episomal form of HPV16 genome. Gynecol Oncol 2013;131:374–379.
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 86 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis 21	 Anayannis NV, Schlecht NF, Ben-Dayan M, Smith RV, Belbin TJ, Ow TJ, Blakaj DM, Burk RD, Leonard SM,  Woodman CB, Parish JL, Prystowsky MB: Association of an intact E2 gene with higher HPV viral load,  higher viral oncogene expression, and improved clinical outcome in HPV16 positive head and neck  squamous cell carcinoma. PLoS One 2018;13:e0191581. 22	 McBride AA: Mechanisms and strategies of papillomavirus replication. Biol Chem 2017;398:919–927. 23	 Pinidis P, Tsikouras P, Iatrakis G, Zervoudis S, Koukouli Z, Bothou A, Galazios G, Vladareanu S: Human  papilloma virus’ life cycle and carcinogenesis. Maedica (Bucur) 2016;11:48-54. 24	 Lutgendorf SK, Costanzo ES: Psychoneuroimmunology and health psychology: an integrative model. Brain  Behav Immun 2003;17:225-232. 25	 Cvitanović H, Milošević M, Bukvić-Bešlić I, Lugović-Mihić L: Determination of psychological stress, serum  immune parameters, and cortisol levels in patients with human papilloma virus. Clin Ther 2020;42:783- 799. 26.	 heoharides TC, Stewart JM, Taracanova A, Conti P, Zouboulis CC: Neuroendocrinology of the skin. Rev  Endocr Metab Disord 2016;17:287-294. 27	 Pondeljak N, Lugović-Mihić L: Stress-induced interaction of skin immune cells, hormones, and  neurotransmitters. Clin Ther 2020;42:757-770. 28	 Lugović-Mihić L, Ljubesić L, Mihić J, Vuković-Cvetković V, Troskot N, Šitum M: Psychoneuroimmunologic  aspects of skin diseases. Acta Clin Croat 2013;52:337-342. 29	 Buckner SL, Mouser JG, Dankel SJ, Jessee MB, Mattocks KT, Loenneke JP: The General Adaptation Syndrome:  Potential misapplications to resistance exercise. J Sci Med Sport 2017;20:1015-1017. 30	 Tsigos C, Kyrou I, Kassi E, Chrousos GP: Stress: Endocrine Physiology and pathophysiology. 2020; In:  Feingold KR, Anawalt B, Boyce A, et al. (eds): Endotext [Internet]. South Dartmouth (MA): MDText.com,  Inc., 2000. 31	 Iftikhar A, Islam M, Shepherd S, Jones S, Ellis I: Cancer and stress: does it make a difference to the patient  when these two challenges collide? Cancers (Basel) 2021;13:163. 32	 McEwen BS: Physiology and neurobiology of stress and adaptation: central role of the brain. Physiol Rev  2007;87:873-904. 33	 Caraffa A, Spinas E, Kritas SK, Lessiani G, Ronconi G, Saggini A., Antinolfi P, Pizzicannella J, Toniato E,  Theoharides TC, Conti P: Endocrinology of the skin: intradermal neuroimmune network, a new frontier. J  Biol Regul Homeost Agents 2016;30:339-343. 34	 Fischer A, Ziogas A, Anton-Culver H: Perception matters: Stressful life events increase breast cancer risk. J  Psychosom Res 2018;110:46-53. 35	 Peters EM: Stressed skin?--a molecular psychosomatic update on stress-causes and effects in dermatologic  diseases. J Dtsch Dermatol Ges 2016;14:233-252. 36	 Hunter HJ, Momen SE, Kleyn CE: The impact of psychosocial stress on healthy skin. Clin Exp Dermatol  2015;40:540-546. 37	 Van Bodegom M, Homberg JR, Henckens MJAG: Modulation of the hypothalamic-pituitary-adrenal axis by  early life stress exposure. Front Cell Neurosci 2017;11:87. 38	 Dhabhar FS, McEwen B: Chapter 34 - Bi-directional effects of stress on immune function: possible  explanations for salubrious as well as harmful effects. In: Ader R (ed): Psychoneuroimmunology (Fourth  Edition), Volume II. Oxford, UK, Elsevier Academic Press, 2007, pp 723-760. 39	 Cohen S, Janicki-Deverts D, Doyle WJ, Miller GE, Frank E, Rabin BS, Turner RB: Chronic stress,  glucocorticoid receptor resistance, inflammation, and disease risk. Proc Natl Acad Sci USA 2012;109:5995- 5999. 40	 Stone AA, Bovbjerg DH, Neale JM, Napoli A, Valdimarsdottir H: Development of common cold symptoms  following experimental rhinovirus infection is related to prior stressful life events. Behav Med  1992;18:115-120. 41	 Koh D, Yong Y, Ng V, Chia SE: Stress, mucosal immunity, upper respiratory tract infections, and sickness  absence. J Occup Environ Med 2002;44:987-988. 42	 Fang CY, Miller SM, Bovbjerg DH, Bergman C, Edelson MI, Rosenblum NG, Bove BA, Godwin AK, Campbell  DE, Douglas SD: Perceived stress is associated with impaired T-cell response to HPV16 in women with  cervical dysplasia. Ann Behav Med 2008;35:87-96. 43	 Lu D: The role of psychological stress in cervical and prostate carcinogenesis [PhD Thesis]. Stockholm,  Sweden, Department of Medical Epidemiology and Biostatistics Karolinska Institutet, 2017.
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 87 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis 44	 Burd EM: Human Papillomavirus and cervical cancer. Clin Microbiol Rev 2003;16:1-17. 45	 Lu D, Sundström K, Sparén P, Fall K, Sjölander A, Dillner J, Helm NY, Adami HO, Valdimarsdóttir U, Fang F:  Bereavement is associated with an increased risk of HPV Infection and cervical cancer: an epidemiological  study in Sweden. Cancer Res 2016;76:643-651. 46	 Vonsky M, Shabaeva M, Runov A, Lebedeva N, Chowdhury S, Palefsky JM, Isaguliants M: Carcinogenesis  associated with Human Papillomavirus infection. Mechanisms and potential for immunotherapy.  Biochemistry (Mosc) 2019;84:782-799. 47	 Ziemssen T, Kern S: Psychoneuroimmunology--cross-talk between the immune and nervous systems. J  Neurol 2007;254:8-11. 48	 Dhabhar FS, Malarkey WB, Neri E, McEwen BS: Stress-induced redistribution of immune cells--from  barracks to boulevards to battlefields: a tale of three hormones. Psychoneuroendocrinology 2012;37:1345- 1368. 49	 Stefanski V: Social stress affects migration of blood T cells into lymphoid organs. J Neuroimmunology  2003;138:17-24. 50	 Goebel MU, Mills PJ: Acute psychological stress and exercise and changes in peripheral leukocyte adhesion  molecule expression and density. Psychosom Med 2000;62:664-670. 51	 Paik IH, Toh KY, Lee C, Kim JJ, Lee SJ: Psychological stress may induce increased humoral and decreased  cellular immunity. Behav Med 2000;26:139-141. 52	 Ohta M, Ohmori T, Kawai K, Teshima-Kondo S, Rokutan K: Expression analysis of psychological stress- associated genes in peripheral blood leukociti. Neurosci Lett 2005;381:57-62. 53	 Armaiz-Pena GN, Gonzalez-Villasana V, Nagaraja AS, Rodriguez-Aguayo C, Sadaoui NC, Stone RL, Matsuo  K, Dalton HJ, Previs RA, Jennings NB, Dorniak P, Hansen JM, Arevalo JM, Cole SW, Lutgendorf SK, Sood  AK, Lopez-Berestein G: Adrenergic regulation of monocyte chemotactic protein 1 leads to enhanced  macrophage recruitment and ovarian carcinoma growth. Oncotarget 2015;6:4266-73. 54	 Jensen MM: The influence of stress on murine leukemia virus infection. Proc Soc Exp Biol Med  1968;127:610-614. 55	 Magnon C, Hall SJ, Lin J, Xue X, Gerber L, Freedland SJ, Frenette PS: Autonomic nerve development  contributes to prostate cancer progression. Science 2013;341:1236361. 56	 Powell ND, Tarr AJ, Sheridan JF: Psychosocial stress and inflammation in cancer. Brain Behav Immun  2013;30:S41-47. 57	 Hunzeker J, Padgett DA, Sheridan PA, Dhabhar FS, Sheridan JF: Modulation of natural killer cell activity by  restraint stress during an influenza A/PR8 infection in mice. Brain Behav Immun 2004;18:526-535. 58	 Thaker PH, Han LY, Kamat AA, Arevalo JM, Takahashi R, Lu C, Jennings NB, Armaiz-Pena G, Bankson JA,  Ravoori M, Merritt WM, Lin YG, Mangala LS, Kim TJ, Coleman RL, Landen CN, Li Y, Felix E, Sanguino AM, et  al.: Chronic stress promotes tumor growth and angiogenesis in a mouse model of ovarian carcinoma. Nat  Med  2006;12:939-944. 59	 Verza FA, Valente VB, Oliveira LK, Kayahara GM, Crivelini MM, Furuse C, Biasoli ÉR, Miyahara GI, Oliveira  SHP, Bernabé DG: Social isolation stress facilitates chemically induced oral carcinogenesis. PLoS One  2021;16:e0245190. 60	 Chang HY, Keyes KM, Mok Y, Jung KJ, Shin YJ, Jee SH: Depression as a risk factor for overall and hormone- related cancer: the Korean cancer prevention study. J Affect Disord 2015;173:1-8. 61	 Chida Y, Hamer M, Wardle J, Steptoe A: Do stress-related psychosocial factors contribute to cancer  incidence and survival? Nat Clin Pract Oncol 2008;5:466-475. 62	 Coker AL, Bond SM, Pirisi LA: Life stressors are an important reason for women discontinuing follow-up  care for cervical neoplasia. Cancer Epidemiol Biomarkers Prev 2006;15:321-329. 63	 Cui B, Peng F, Lu J, He B, Su Q, Luo H, Deng Z, Jiang T, Su K, Huang Y, Ud Din Z, Lam EW, Kelley KW, Liu Q:  Cancer and stress: NextGen strategies. Brain Behav Immun 2021;93:368-383. 64	 DePunzio C, Salvestroni C, Guazzelli G, Papa MC, Freschi G, Ferdeghini M, Masoni S: Stress and cervical  dysplasia. Eur J Gynaecol Oncol 1998;19:287–290. 65	 Lu D, Andrae B, Valdimarsdóttir U, Sundström K, Fall K, Sparén P, Fang F: Psychological distress  is associated with cancer-specific mortality among patients with cervical cancer. Cancer Res  2019;28:canres.0116.2019. 66	 Fang F, Fall K, Sparén P, Adami HO, Valdimarsdóttir HB, Lambe M, Valdimarsdóttir U: Risk of infection- related cancers after the loss of a child: a follow-up study in Sweden. Cancer Res 2011;71:116-122.
+
+Cell Physiol Biochem 2021;55(S2):71-88 DOI: 10.33594/000000395 Published online: 10 July 2021 88 Cellular Physiology  and Biochemistry Cellular Physiology  and Biochemistry © 2021 The Author(s). Published by  Cell Physiol Biochem Press GmbH&Co. KG Lugović-Mihić et al.: Psychological Stress, HPV Infection and Carcinogenesis 67	 Ikeda A, Kawachi I, Iso H, Iwasaki M, Inoue M, Tsugane S: Social support and cancer incidence and  mortality: the JPHC study cohort II. Cancer Causes Control 2013;24:847-860. 68	 Kravdal O: The impact of marital status on cancer survival. Soc Sci Med. 2001;52:357-368. 69	 Pereira DB, Antoni MH, Danielson A, Simon T, Efantis-Potter J, Carver CS, Durán RE, Ironson G, Klimas  N, O’Sullivan MJ: Life stress and cervical squamous intraepithelial lesions in women with human  papillomavirus and human immunodeficiency virus. Psychosom Med 2003;65:427-434. 70	 Wilkerson JE, Bailey JM, Bieniasz ME, Murray SI, Ruffin MT: Psychosocial factors in risk of cervical  intraepithelial lesions. Int J Women Health 2009;18:513-518. 71	 Dhabhar FS, Saul AN, Holmes TH, Daugherty C, Neri E, Tillie JM, Kusewitt D, Oberyszyn TM: High anxiety  is associated with higher chronic stress burden, lower protective immunity, and increased cancer  progression. PLoS One 2012;7:e33069 92. 72	 Kołacz R, Grudnik T, Stefaniak T, Bodak E: Haptoglobin in the blood serum of pigs exposed to  transportation stress. ISAH, Mexico 2003. URL: http://www.isahsoc.org/userfiles/downloads/ proceedings/2003/speakers/S25KolaczPoland.pdf 73	 Van Hunsel F, Van Gastel A, Neels H, Wauters A, Demedts P, Bruyland K, DeMeester I, Scharpé S, Janca A,  Song C, Maes M: The influence of psychological stress on total serum protein and patterns obtained in  serum protein electrophoresis. Psychol Med 1998;28:301-309. 74	 Cole SW, Mendoza SP, Capitanio JP: Social stress desensitizes lymphocytes to regulation by endogenous  glucocorticoids: Insights from in vivo cell trafficking dynamics in rhesus macaques. Psychosom Med  2009;71:591-597. 75	 Irwin M, Daniels M, Smith TL, Bloom E, Weiner H: Impaired natural killer activity during bereavement.  Brain Behav Immun 1987;1:98-104. 76	 Sharp L, Cotton S, Carsin AE, Gray N, Thornton A, Cruickshank M, Little J, TOMBOLA Group: Factors  associated with psychological distress following colposcopy among women with low-grade abnormal  cervical cytology: a prospective study within the Trial of management of borderline and other low-grade  abnormal smears (TOMBOLA). Psychooncology 2013;22:368-380. 77	 Bond E, Lu D, Herweijer E, Sundström K, Valdimarsdóttir U, Fall K, Arnheim-Dahlström L, Sparén P, Fang  F: Sexually transmitted infections after bereavement - a population-based cohort study. BMC Infect Dis  2016;16:419. 78	 Kola S, Walsh JC, Hughes BM, Howard S: Matching intra-procedural information with coping style reduces  psychophysiological arousal in women undergoing colposcopy. J Behav Med 2013;36:401-412. 79	 Massad LS, Agniel D, Minkoff H, Watts DH, D’Souza G, Levine AM: Effect of stress and depression on the  frequency of squamous intraepithelial lesions. J Low Genit Tract Dis 2011;15:42-47. 80	 Antoni MH, Pereira DB, Marion I, Ennis N, Andrasik MP, Rose R, McCalla J, Simon T, Fletcher MA, Lucci J,  Efantis-Potter J, O’Sullivan MJ: Stress management effects on perceived stress and cervical neoplasia in  low-income HIV-infected women. J Psychosom Res 2008;65:389-401. 81	 Giuliano AR, Nyitray AG, Kreimer AR, Pierce Campbell CM, Goodman MT, Sudenga SL, Monsonego J,  Franceschi S: EUROGIN 2014 roadmap: differences in human papillomavirus infection natural history,  transmission and human papillomavirus-related cancer incidence by gender and anatomic site of infection.  Int J Cancer 2015;136:2752-2760. 82	 McCaffery K, Waller J, Forrest S, Cadman L, Szarewski A, Wardle J: Testing positive for human  papillomavirus in routine cervical screening: examination of psychosocial impact. BJOG 2004;111:1437- 1443. 83	 Tomás-Aragonés L, Castillo-Amores AB, Rodríguez-Cerdeira C, Marrón-Moya SE: Psychological aspects  associated with the acquisition and development of HPV infection and its repercussion on quality of life.  Open Dermatol J 2009;3:133-136. 84	 Jensen SE, Pereira DB, Whitehead N, Buscher I, McCalla J, Andrasik M, Rose R, Antoni MH: Cognitive- behavioral stress management and psychological well-being in HIV+ racial/ethnic minority women with  human papillomavirus. Health Psychol 2013;32:227-230. 85	 Jentschke M, Lehmann R, Drews N, Hansel A, Schmitz M, Hillemanns P: Psychological distress in cervical  cancer screening: results from a German online survey. Arch Gynecol Obstet 2020;302:699-705.

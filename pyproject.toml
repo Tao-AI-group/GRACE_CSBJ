@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "hpv-chatbot"
+version = "0.1.0"
+description = "A chatbot for HPV vaccine"
+authors = ["Mayo Clinic"]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0,<=3.13"
+langchain-openai = "*"
+python-dotenv = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-anthropic = "*"
+langchain-google-genai = "*"
+langchain-google-firestore = "*"
+langchain_huggingface = "*"
+firestore = "*"
+chromadb = "*"
+tiktoken = "*"
+sentence-transformers = "*"
+bs4 = "*"
+firecrawl-py = "*"
+langchainhub = "*"
+wikipedia = "*"
+tavily-python = "*"
+streamlit = "*"
+PyMuPDF = "*"
+guardrails-ai = "*"
+
+[tool.ruff]
+# https://beta.ruff.rs/docs/configuration/
+select = ['E', 'W', 'F', 'I', 'B', 'C4', 'ARG', 'SIM']
+ignore = ['W291', 'W292', 'W293']
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 

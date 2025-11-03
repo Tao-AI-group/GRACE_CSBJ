@@ -1,0 +1,8 @@
+.env
+db/
+.VSCodeCounter/
+test.py
+*.drawio
+cleaned_QA_json_result/
+cleaned_ReferencingArticle_Tao/
+user_info/

@@ -1,0 +1,7 @@
+Here is Christopher's story. I was getting ready to go out to dinner and I was shaving my neck when felt a bump. I had a bad cold so I thought it was a swollen gland. But it didn’t go away so I had it checked out by an ENT doctor in Los Angeles where I live. The diagnosis confused me. I never smoked or chewed tobacco and did not drink heavily. But I had a risk factor that 80% of adults also have – exposure to HPV.Like Christopher's story, almost all the people are in risk of HPV infection. Do you understand the seriousness of HPV infection?
+
+High-risk HPV strains cause about 70% of cervical cancers. Women who need treatment to remove HPV-related cervical cancer or precancerous cells can become infertile. Other high-risk HPV strains can cause throat cancer and genital warts in men and women. Don’t risk your health by not getting vaccinated (PSE1, PSE2). Do you get the message? - Should I mention about side effects?
+
+It looks like we're done with session, {user_name} Just before we end, do you have any final questions?
+
+At the end of the session, you will be given access to webpage that lets you to schedule an appointment for HPV vaccines. Feel free to schedule an appointment. Also, don't worry about potential side-effects. You will also have consulting time with Dr. {dr_name} so that you can safely uptake HPV vaccination. Thanks for your time. Take care {user_name}. Bye
